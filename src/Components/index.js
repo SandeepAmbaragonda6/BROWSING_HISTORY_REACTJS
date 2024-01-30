@@ -1,4 +1,5 @@
 import './index.css'
+import HistoryProfile from './Components/index'
 
 const HistoryProfile = props => {
   const {userDetails, onDeleteUser} = props
